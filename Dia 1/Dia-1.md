@@ -18,8 +18,15 @@ echo "# AprendendoGit" >> README.md
 
 ## git add
 
-##git config
+## git config
   user.name
   user.email
   core.editor
-  
+
+## git log
+    -3
+    --oneline
+    --author=""
+    --graph --decorate
+
+## git pull
