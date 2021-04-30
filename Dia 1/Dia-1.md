@@ -18,5 +18,8 @@ echo "# AprendendoGit" >> README.md
 
 ## git add
 
-
-S
+##git config
+  user.name
+  user.email
+  core.editor
+  
